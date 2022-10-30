@@ -30,7 +30,7 @@ const languages = {
         desc: "Веб-сайты не обязательно должны быть статичными.",
       },
       whoIsGuy: "Кто этот парень?",
-      description: `React разработчик.
+      description: `React & React Native разработчик.
       <br />
       Самоучка, который с энтузиазмом использует свои знания.
       <br />
@@ -94,7 +94,7 @@ const languages = {
         desc: "Websites don't have to be static, I love making pages come to life.",
       },
       whoIsGuy: "Who's this guy?",
-      description: `React Developer.
+      description: `React & React Native Developer.
       <br />
       I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
       <br />
